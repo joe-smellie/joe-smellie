@@ -1,8 +1,8 @@
 ## Hi there I'm Joe 👋
-🔭 I’m currently working on Petmind a pet care app
-🌱 I’m currently learning React-Native
-📫 How to reach me: Linkedin 
-⚡ Fun fact: Crocodiles can't stick their toungue out
+- 🔭 Recent Dev Academy graduate
+- 🌱 I’m currently learning React-Native
+- 📫 Catch me on Linkedin
+- ⚡ Fun fact: Crocodiles can't stick their toungue out
 <!--
 **joe-smellie/joe-smellie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
